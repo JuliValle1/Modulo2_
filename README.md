@@ -1,3 +1,3 @@
-# Modulo2_
+# Módulo 2_
 
 En este repositorio se presentan los resultados de una investigación sobre eficiencia computacional aplicada a la ingeniería. El análisis se basa en pruebas empíricas que contrastan el desempeño de funciones iterativas frente a métodos vectorizados en el lenguaje R, con el fin de proponer mejoras en el tratamiento industrial de información. Para garantizar la reproducibilidad, los ejercicios se desarrollaron en Posit Cloud empleando documentos dinámicos de R Markdown.
